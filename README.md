@@ -25,7 +25,7 @@ The simulation demonstrates:
 
 ## Run the Simulation
 
-**Online:** [Launch Simulation](https://YOUR-USERNAME.github.io/BRIDGE-AI-Uncertainty-Lab/)
+**Online:** [Launch Simulation](https://anuradha252.github.io/BRIDGE-AI-Uncertainty-Lab/)
 
 **Locally:** Download `index.html` and open it in a web browser.
 
